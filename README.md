@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the client/server services using AIDL”.
-Developed by:
-Registeration Number :
+Developed by:HariDharshini.S
+Registeration Number : 212221230033
 */
 ```
 ### AIDLcolorservice.java:
